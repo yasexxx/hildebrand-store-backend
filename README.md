@@ -1,2 +1,2 @@
-# hildebrand-store-backend
-Backend built in Node.js and Express with MongoDB.
+# backend-dei-website
+ The backend part of repository
