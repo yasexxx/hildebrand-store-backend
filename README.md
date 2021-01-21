@@ -34,6 +34,8 @@ ENCRYPT_SECRET = encryption secret key for password in web.
 4. Then type "npm start" to start node server.
 5. DONE!!!
 
-
+# DEPLOYMENT:
+* HEROKU
+* see deployment site on https://hildebrandapp.herokuapp.com/
 
 
